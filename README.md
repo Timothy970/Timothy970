@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Timothy970
-- 👀 I’m interested in vue, laravel, and GO projects.
+- 👀 I’m interested in next js, react, laravel, and GO projects.
 - 🌱 It runs I smile
 - 💞️ I’m looking to collaborate on day to day projects
 - 📫 How to reach me kimanitimothy642@gmail.com
